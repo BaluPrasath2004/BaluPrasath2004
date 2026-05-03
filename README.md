@@ -24,9 +24,8 @@
 ```yaml
 Name        : Baluprasath R
 Role        : SOC Analyst (In Progress) — Building Proof, Not Just Certs
-Education   : MSc Cyber Forensics & Information Security (2026 Cohort)
-Background  : BSc Physics → Security Ops (TVS Sundaram Clayton) → Cybersecurity
-Mission     : Break → Detect → Analyze → Document
+Education   : MSc Cyber Forensics & Information Security (2026)
+Mission     : Break → Detect → Analyze → Report
 Philosophy  : "Real labs over resume fluff. If it's not tested, it's not valid."
 ```
 
